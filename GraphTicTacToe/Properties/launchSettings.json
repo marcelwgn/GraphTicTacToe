@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GraphTicTacToe (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GraphTicTacToe (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
