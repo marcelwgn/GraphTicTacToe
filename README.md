@@ -1,3 +1,6 @@
+[![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
+
+
 # GraphTicTacToe
 
 This is a WinUI 3 Tic Tac Toe implementation that uses the Microsoft Graph API to store the game state and user management.
